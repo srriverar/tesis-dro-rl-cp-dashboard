@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "text": "A. Bhardwaj, V. K. Kamboj, V. K. Shukla, B. Singh, and P. Khurana, “Unit commitment in electrical power system - A literature review,” 2012 IEEE International Power Engineering and Optimization Conference, PEOCO 2012 - Conference Proceedings, pp. 275–280, 2012, doi: 10.1109/PEOCO.2012.6230874.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 2,
+  "text": "C. O’Malley, P. de Mars, L. Badesa, and G. Strbac, “Reinforcement learning and mixed-integer programming for power plant scheduling in low carbon systems: Comparison and hybridisation,” Appl. Energy, vol. 349, Nov. 2023, doi: 10.1016/J.APENERGY.2023.121659.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 3,
+  "text": "Unidad de Planeación Minero Energética, “Balance Energetico Colombiano. Revisión 2023 - Preliminar 2024,” 2025. Accessed: Jul. 12, 2026. [Online]. Available: https://docs.upme.gov.co/DemandayEficiencia/Documents/Beco/Presentacion_BECO_2024.pdf?_gl=1*1ij197w*_ga* MTU4NzY1MDAxMC4xNzgzOTk2Mjg3*_ga_CJ92N3NEKY*czE3ODM5OTYyODYkbzEkZzEkdDE3ODM5OTcwMDAkajYwJG wwJGgw",
+  "theme": "Contexto Colombia"
+ },
+ {
+  "id": 4,
+  "text": "J. Li, K. Gu, K. Zhao, Z. Li, and Z. Dong, “A Robust and Fast Operational Risk Assessment Method for Composite Power Systems With High Wind Power Penetration,” IEEE Transactions on Power Systems, Jul. 2026, doi: 10.1109/TPWRS.2026.3670459.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 5,
+  "text": "D. Kuhn, S. Shafiee, and W. Wiesemann, “Distributionally Robust Optimization,” Nov. 2024, Accessed: Dec. 01, 2025. [Online]. Available: https://arxiv.org/pdf/2411.02549",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 6,
+  "text": "Y. Cho and I. Yang, “On Affine Policies for Wasserstein Distributionally Robust Unit Commitment,” Proceedings of the IEEE Conference on Decision and Control, vol. 2022-December, pp. 7167–7173, 2022, doi: 10.1109/CDC51059.2022.9992574.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 7,
+  "text": "Y. Li, M. Han, M. Shahidehpour, J. Li, and C. Long, “Data-driven distributionally robust scheduling of community integrated energy systems with uncertain renewable generations considering integrated demand response,” Appl. Energy, vol. 335, p. 120749, Apr. 2023, doi: 10.1016/j.apenergy.2023.120749.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 8,
+  "text": "X. Zhou, X. Fu, H. Yang, Q. Xia, and L. Zheng, “Real-time Scheduling of Renewable Energy Considering Uncertainty of Renewable Power Forecasts Using Deep Reinforcement Learning,” 2024 6th International Conference on Power and Energy Technology, ICPET 2024, pp. 1094–1099, 2024, doi: 10.1109/ICPET62369.2024.10940341.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 9,
+  "text": "R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction. 2018.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 10,
+  "text": "A. N. Angelopoulos and S. Bates, “A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification,” Jul. 2021, Accessed: Apr. 18, 2026. [Online]. Available: https://arxiv.org/pdf/2107.07511",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 11,
+  "text": "M. Borrotti, “Quantifying Uncertainty with Conformal Prediction for Heating and Cooling Load Forecasting in Building Performance Simulation,” Energies (Basel)., vol. 17, no. 17, Sep. 2024, doi: 10.3390/en17174348.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 12,
+  "text": "H. Wang, “A Lightweight Integrated Load Forecasting Framework with Uncertainty Quantification for Smart Grid Dispatch,” 2025 5th International Conference on Electrical Engineering and Control Science, IC2ECS 2025, pp. 164–167, 2025, doi: 10.1109/IC2ECS68700.2025.11362104.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 13,
+  "text": "L. Peng, Z. Hanming, M. Hongwei, L. Jianfeng, L. Yang, and W. Jiahao, “Multi-Timescale Optimal Dispatch of Source- Load-Storage Coordination in Active Distribution Network Based on Deep Reinforcement Learning[基于深度强化学习 的有源配电网多时间尺度源荷储协同优化调控],” Diangong Jishu Xuebao/Transactions of China Electrotechnical Society, vol. 40, no. 5, pp. 1487–1502, Mar. 2025, doi: 10.19595/j.cnki.1000-6753.tces.240316.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 14,
+  "text": "G. Lu, B. Yuan, B. Nie, P. Xia, C. Wu, and G. Sun, “Enhanced Dynamic Expansion Planning Model Incorporating Q- Learning and Distributionally Robust Optimization for Resilient and Cost-Efficient Distribution Networks,” Energies (Basel)., vol. 18, no. 5, 2025, doi: 10.3390/en18051020.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 15,
+  "text": "J. Jin and Y. Xu, “Optimal Policy Characterization Enhanced Actor-Critic Approach for Electric Vehicle Charging Scheduling in a Power Distribution Network,” IEEE Trans. Smart Grid, vol. 12, no. 2, pp. 1416–1428, Mar. 2021, doi: 10.1109/TSG.2020.3028470. Macroproceso: Formación Proceso: Gestión Administrativa de apoyo a la Formación Título: Presentación de Proyecto Página 78 de 82",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 16,
+  "text": "M. Mo, X. Xiong, Y. Wu, and Z. Yu, “Deep-Reinforcement-Learning-Based Low-Carbon Economic Dispatch for Community-Integrated Energy System under Multiple Uncertainties,” Energies (Basel)., vol. 16, no. 22, Nov. 2023, doi: 10.3390/EN16227669.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 17,
+  "text": "W. Chen, N. Wu, and Y. Huang, “Real-Time Optimal Dispatch of Microgrid Based on Deep Deterministic Policy Gradient Algorithm,” Proceedings - 2021 International Conference on Big Data and Intelligent Decision Making, BDIDM 2021, pp. 24–28, 2021, doi: 10.1109/BDIDM53834.2021.00012.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 18,
+  "text": "R. Zhu, H. Liu, M. Kang, W. Yu, and J. Zhao, “Adversarial Scenario Generation Integrated Distributionally Robust Deep Reinforcement Learning for Survival of Critical Loads,” IEEE Trans. Smart Grid, pp. 1–1, 2025, doi: 10.1109/TSG.2025.3571349.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 19,
+  "text": "L. Lanqing and T. Murata, “Economic optimal dispatching method of power microgrid under environmental uncertainties,” Proceedings - 2016 5th IIAI International Congress on Advanced Applied Informatics, IIAI-AAI 2016, pp. 1036–1041, Aug. 2016, doi: 10.1109/IIAI-AAI.2016.74.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 20,
+  "text": "R. S. Pinto and C. Unsihuay-Vila, “A data-driven distributionally robust expansion planning model for ADNs with multi- microgrids considering energy trading strategy based on game theory,” Sustainable Energy, Grids and Networks, vol. 39, p. 101431, Sep. 2024, doi: 10.1016/J.SEGAN.2024.101431.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 21,
+  "text": "S. Liu et al., “Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach Based on Multi-Task Attribution Map,” IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3324–3335, Mar. 2024, doi: 10.1109/TPWRS.2023.3298007.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 22,
+  "text": "G. Gurumoorthi, S. Senthilkumar, G. Karthikeyan, and F. Alsaif, “A hybrid deep learning approach to solve optimal power flow problem in hybrid renewable energy systems,” Sci. Rep., vol. 14, no. 1, Dec. 2024, doi: 10.1038/S41598- 024-69483-4.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 23,
+  "text": "L. Yu, Y. Tan, S. Qin, and D. Yue, “Deep Reinforcement Learning for Online Vulnerability Identification in Smart Grid under Load Uncertainty,” Proceedings - 2022 Chinese Automation Congress, CAC 2022, vol. 2022-January, pp. 4036– 4041, 2022, doi: 10.1109/CAC57257.2022.10055373.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 24,
+  "text": "H. Quan, D. Srinivasan, and A. Khosravi, “Incorporating Wind Power Forecast Uncertainties into Stochastic Unit Commitment Using Neural Network-Based Prediction Intervals,” IEEE Trans. Neural Netw. Learn. Syst., vol. 26, no. 9, pp. 2123–2135, Sep. 2015, doi: 10.1109/TNNLS.2014.2376696.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 25,
+  "text": "E. A. Jasmin, T. P. Imthias Ahamed, and T. Remani, “A function approximation approach to reinforcement learning for solving unit commitment problem with photo voltaic sources,” IEEE International Conference on Power Electronics, Drives and Energy Systems, PEDES 2016, vol. 2016-January, pp. 1–6, Apr. 2017, doi: 10.1109/PEDES.2016.7914428.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 26,
+  "text": "D. Jiménez, A. Angulo, A. Street, and F. Mancilla-David, “A closed-loop data-driven optimization framework for the unit commitment problem: A Q-learning approach under real-time operation,” Appl. Energy, vol. 330, Jan. 2023, doi: 10.1016/J.APENERGY.2022.120348.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 27,
+  "text": "A. S. Ebrie and Y. J. Kim, “Reinforcement learning-based optimization for power scheduling in a renewable energy connected grid,” Renew. Energy, vol. 230, Sep. 2024, doi: 10.1016/J.RENENE.2024.120886.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 28,
+  "text": "C. Correa-Jullian, E. López Droguett, and J. M. Cardemil, “Operation scheduling in a solar thermal system: A reinforcement learning-based framework,” Appl. Energy, vol. 268, Jun. 2020, doi: 10.1016/J.APENERGY.2020.114943.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 29,
+  "text": "E. Oh and H. Wang, “Reinforcement-Learning-Based Energy Storage System Operation Strategies to Manage Wind Power Forecast Uncertainty,” IEEE Access, vol. 8, pp. 20965–20976, 2020, doi: 10.1109/ACCESS.2020.2968841.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 30,
+  "text": "H. Huang, B. Zhao, C. Liu, Z. Tang, Z. Gao, and T. Lu, “Deep Reinforcement Learning for Efficient Scheduling of Renewable Energy Microgrids,” 2024 8th International Conference on Electrical, Mechanical and Computer Engineering, ICEMCE 2024, pp. 976–981, 2024, doi: 10.1109/ICEMCE64157.2024.10862927.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 31,
+  "text": "S. B. Rokh, R. Zhang, J. Ravishankar, H. Saberi, and J. Fletcher, “Real-Time Optimization of Microgrid Energy Management Using Double Deep Q-Network,” 2023 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2023, 2023, doi: 10.1109/ISGT51731.2023.10066355.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 32,
+  "text": "G. Xu, Z. Lin, Q. Wu, W. K. V. Chan, and X. P. Zhang, “Deep reinforcement learning based model-free optimization for unit commitment against wind power uncertainty,” International Journal of Electrical Power and Energy Systems, vol. 155, Jan. 2024, doi: 10.1016/J.IJEPES.2023.109526.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 33,
+  "text": "J. Luo, W. Zhang, H. Wang, W. Wei, and J. He, “Research on Data-Driven Optimal Scheduling of Power System,” Energies (Basel)., vol. 16, no. 6, Mar. 2023, doi: 10.3390/EN16062926.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 34,
+  "text": "W. Shi, X. Han, X. Wang, and J. Li, “Optimization Scheduling Strategy with Multi-Agent Training Data Rolling Macroproceso: Formación Proceso: Gestión Administrativa de apoyo a la Formación Título: Presentación de Proyecto Página 79 de 82 Enhancement for Regional Power Grid Considering Operation Risk and Reserve Availability,” Proceedings - 2023 8th Asia Conference on Power and Electrical Engineering, ACPEE 2023, pp. 1774–1781, 2023, doi: 10.1109/ACPEE56931.2023.10135875.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 35,
+  "text": "C. Cui and Z. Dong, “Optimal Operation Strategy of Microgrid Based on TD3 Algorithm,” 2022 IEEE 7th International Conference on Power and Renewable Energy, ICPRE 2022, pp. 347–351, 2022, doi: 10.1109/ICPRE55555.2022.9960559.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 36,
+  "text": "G. Campos, N. H. El-Farra, and A. Palazoglu, “Soft Actor-Critic Deep Reinforcement Learning with Hybrid Mixed-Integer Actions for Demand Responsive Scheduling of Energy Systems,” Ind. Eng. Chem. Res., vol. 61, no. 24, pp. 8443–8461, Jun. 2022, doi: 10.1021/ACS.IECR.1C04984.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 37,
+  "text": "J. Feng, Z. Ren, and W. Li, “Risk-based Dispatch of Power Systems Incorporating Spatiotemporal Correlation Based on the Robust Soft Actor-Critic Algorithm,” IEEE Transactions on Power Systems, 2024, doi: 10.1109/TPWRS.2024.3496936.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 38,
+  "text": "X. A. Sun and A. J. Conejo, “Robust Optimization in Electric Energy Systems,” vol. 313, 2021, doi: 10.1007/978-3-030- 85128-6.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 39,
+  "text": "J. Du et al., “A distributionally robust collaborative scheduling and benefit fallocation method for interconnected microgrids considering tail risk assessment,” Appl. Energy, vol. 391, p. 125910, Aug. 2025, doi: 10.1016/J.APENERGY.2025.125910.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 40,
+  "text": "J. Chen, J. Zhu, W. Liu, L. Fang, and M. Liu, “MADP-Based Explicit Online Operation Policy for Robust Energy Management of ADN,” IEEE Trans. Smart Grid, vol. 15, no. 4, pp. 3795–3807, Jul. 2024, doi: 10.1109/TSG.2024.3371221.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 41,
+  "text": "N. Gu, J. Cui, and C. Wu, “An Auto-Tuned Robust Dispatch Strategy for Virtual Power Plants to Provide Multi-Stage Real- Time Balancing Service,” IEEE Trans. Smart Grid, vol. 14, no. 6, pp. 4494–4507, Nov. 2023, doi: 10.1109/TSG.2023.3265398.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 42,
+  "text": "Q. Wang, Y. Chen, Y. Mi, C. She, P. Zhao, and C. Chen, “Contextual distributionally robust optimisation for inventory replenishment optimisation under uncertain demand,” Int. J. Prod. Res., 2026, doi: 10.1080/00207543.2026.2653131.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 43,
+  "text": "A. Z. Ren and A. Majumdar, “Distributionally Robust Policy Learning via Adversarial Environment Generation,” IEEE Robot. Autom. Lett., vol. 7, no. 2, pp. 1379–1386, Apr. 2022, doi: 10.1109/LRA.2021.3139949.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 44,
+  "text": "X. Sun, A. Gossmann, Y. Wang, and B. Bischt, “Variational Resampling Based Assessment of Deep Neural Networks under Distribution Shift,” 2019 IEEE Symposium Series on Computational Intelligence, SSCI 2019, pp. 1344–1353, Dec. 2019, doi: 10.1109/SSCI44817.2019.9002665.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 45,
+  "text": "B. Wang, Z. Li, W. Li, and Z. Wang, “Integrated Distribution-Free Detection and Adaptive Robust Scheduling for V2G Smart Home Microgrids,” IEEE Transactions on Consumer Electronics, May 2026, doi: 10.1109/TCE.2026.3680688.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 46,
+  "text": "M. Heydari, T. Niknam, and N. Parsa, “A hierarchical deep learning and distributionally robust framework for urban multi-energy systems,” Results in Engineering, vol. 29, Mar. 2026, doi: 10.1016/j.rineng.2025.108533.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 47,
+  "text": "H. Li, H. Liu, J. Ma, D. Li, and W. Zhang, “Distributionally robust optimal dispatching method of integrated electricity and heating system based on improved Wasserstein metric,” International Journal of Electrical Power & Energy Systems, vol. 151, p. 109120, Sep. 2023, doi: 10.1016/J.IJEPES.2023.109120.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 48,
+  "text": "H. Zhao, Z. Han, Z. Wang, H. Chen, and S. Fei, “A Wasserstein Distributionally Robust Learning Approach for Power Grid Dispatch,” Proceedings - 2025 10th Asia Conference on Power and Electrical Engineering, ACPEE 2025, pp. 225–229, 2025, doi: 10.1109/ACPEE64358.2025.11041002.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 49,
+  "text": "Y. Lu and B. Wang, “Distributionally Robust Proximal Policy Optimization for Unit Commitment with Wind Power Uncertainty,” 2022 1st International Conference on Cyber-Energy Systems and Intelligent Energy, ICCSIE 2022, 2023, doi: 10.1109/ICCSIE55183.2023.10175277.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 50,
+  "text": "R. Xu, C. Chen, Y. Sun, P. Venkitasubramaniam, and S. Xie, “Wasserstein-regularized Conformal Prediction under General Distribution Shift,” Jan. 2025, Accessed: Apr. 18, 2026. [Online]. Available: https://arxiv.org/pdf/2501.13430",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 51,
+  "text": "M. R. Parvez and H. O. Garces, “Conformal Distributionally-Robust Model Predictive Control with a Budgeted Multi- Step Barrier,” 2025 IEEE 4th Industrial Electronics Society Annual On-Line Conference, ONCON 2025, 2025, doi: 10.1109/ONCON68412.2025.11384507.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 52,
+  "text": "D. Foffano, A. Russo, and A. Proutiere, “Conformal Off-Policy Evaluation in Markov Decision Processes,” Proceedings of the IEEE Conference on Decision and Control, pp. 3087–3094, 2023, doi: 10.1109/CDC49753.2023.10383469.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 53,
+  "text": "N. Eghbali, T. Alhanai, and M. M. Ghassemi, “Distribution-Free Uncertainty Quantification in Mechanical Ventilation Treatment: A Conformal Deep Q-Learning Framework,” Proceedings of the AAAI Conference on Artificial Intelligence, Macroproceso: Formación Proceso: Gestión Administrativa de apoyo a la Formación Título: Presentación de Proyecto Página 80 de 82 vol. 39, no. 27, pp. 27960–27968, Apr. 2025, doi: 10.1609/aaai.v39i27.35013.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 54,
+  "text": "T. Kuipers, R. Tumu, S. Yang, M. Kazemi, R. Mangharam, and N. Paoletti, “Conformal Off-Policy Prediction for Multi- Agent Systems,” Proceedings of the IEEE Conference on Decision and Control, pp. 1067–1074, 2024, doi: 10.1109/CDC56724.2024.10886791.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 55,
+  "text": "Z. Chen, S. Cai, and A. P. S. Meliopoulos, “Robust Deep Reinforcement Learning for Volt-VAR Optimization in Active Distribution System Under Uncertainty,” IEEE Trans. Smart Grid, vol. 16, no. 6, pp. 4463–4474, 2025, doi: 10.1109/TSG.2025.3585847.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 56,
+  "text": "P. K. Mohanty, P. Jena, and N. P. Padhy, “A federated transformer-based framework for uncertainty-aware and privacy- preserving EV scheduling with digital twin reinforcement learning,” Electric Power Systems Research, vol. 258, Sep. 2026, doi: 10.1016/j.epsr.2026.113021.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 57,
+  "text": "K. L. Soon, L. T. Soon, W. L. Pang, H. H. Goh, and D. Sooriamoorthy, “Conformalized uncertainty quantification for joint solar–wind power forecasting in reliable grid integration,” J. Comput. Sci., vol. 98, Jul. 2026, doi: 10.1016/j.jocs.2026.102902.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 58,
+  "text": "Y. Renkema, N. Brinkel, and T. Alskaif, “Conformal prediction for stochastic decision-making of PV power in electricity markets,” Electric Power Systems Research, vol. 234, Sep. 2024, doi: 10.1016/j.epsr.2024.110750.",
+  "theme": "Conformal Prediction"
+ },
+ {
+  "id": 59,
+  "text": "M. Van Otterlo and M. Wiering, “Reinforcement learning and markov decision processes,” Adaptation, Learning, and Optimization, vol. 12, pp. 3–42, 2012, doi: 10.1007/978-3-642-27645-3_1.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 60,
+  "text": "Y. Wang, X. Zhou, Y. Shi, C. Zhou, Q. Jiang, and Z. Zheng, “Twin delayed deep deterministic policy gradient based stochastic optimal dispatch of hydro and wind power considering the uncertainty of wind power in power-time dimensions,” International Journal of Electrical Power and Energy Systems, vol. 163, Dec. 2024, doi: 10.1016/J.IJEPES.2024.110326.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 61,
+  "text": "A. Mallem and O. Boudebbouz, “Economic Dispatch on a Power System Network Interconnected with Solar Farm,” Proceedings - 2019 1st International Conference on Sustainable Renewable Energy Systems and Applications, ICSRESA 2019, Dec. 2019, doi: 10.1109/ICSRESA49121.2019.9182477.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 62,
+  "text": "R. Zhu et al., “DRL based low carbon economic dispatch by considering power transmission safety limitations in internet of energy,” Internet of Things (Netherlands), vol. 24, Dec. 2023, doi: 10.1016/J.IOT.2023.100979.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 63,
+  "text": "L. Yang, M. He, V. Vittal, and J. Zhang, “Stochastic Optimization-Based Economic Dispatch and Interruptible Load Management with Increased Wind Penetration,” IEEE Trans. Smart Grid, vol. 7, no. 2, pp. 730–739, Mar. 2016, doi: 10.1109/TSG.2015.2444813.",
+  "theme": "Programación operativa / UC"
+ },
+ {
+  "id": 64,
+  "text": "X. Shi, C. Guo, W. Wang, and J. Zhao, “Intelligent steady-state operation dispatching strategy for power grid based on deep reinforcement learning,” 2024 4th International Conference on Electrical Engineering and Mechatronics Technology, ICEEMT 2024, pp. 109–112, 2024, doi: 10.1109/ICEEMT63201.2024.10692839.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 65,
+  "text": "Y. Chen, Q. Guo, H. Sun, Z. Li, W. Wu, and Z. Li, “A Distributionally Robust Optimization Model for Unit Commitment Based on Kullback-Leibler Divergence,” IEEE Transactions on Power Systems, vol. 33, no. 5, pp. 5147–5160, Sep. 2018, doi: 10.1109/TPWRS.2018.2797069.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 66,
+  "text": "K. Qu, Y. Chen, S. Xie, X. Zheng, and J. Zhu, “Segmented Distributionally Robust Optimization for Real-Time Power Dispatch with Wind Uncertainty,” IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 2970–2983, Mar. 2024, doi: 10.1109/TPWRS.2023.3303313.",
+  "theme": "DRO / Wasserstein"
+ },
+ {
+  "id": 67,
+  "text": "S. Sun, R. Wang, and B. An, “Reinforcement Learning for Quantitative Trading,” ACM Trans. Intell. Syst. Technol., vol. 14, no. 3, Sep. 2021, doi: 10.1145/3582560.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 68,
+  "text": "Y. Chang, J. Chen, W. Wu, T. Pan, Z. Zhou, and S. He, “Intelligent Fault Quantitative Identification for Industrial Internet of Things (IIoT) via a Novel Deep Dual Reinforcement Learning Model Accompanied With Insufficient Samples,” IEEE Internet Things J., vol. 9, no. 20, pp. 19811–19822, Oct. 2022, doi: 10.1109/JIOT.2022.3168317.",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 69,
+  "text": "T. Kanungo, M. Y. Jaisimha, J. Palmer, and R. M. Haralick, “A quantitative methodology for analyzing the performance of detection algorithms,” 1993 IEEE 4th International Conference on Computer Vision, pp. 247–252, 1993, doi: 10.1109/ICCV.1993.378211.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 70,
+  "text": "M. Moradi, Y. Weng, and Y.-C. Lai, “Defending Smart Electrical Power Grids against Cyberattacks with Deep Q - Learning,” PRX Energy, vol. 1, no. 3, Nov. 2022, doi: 10.1103/PRXENERGY.1.033005.",
+  "theme": "Aplicaciones / otros"
+ },
+ {
+  "id": 71,
+  "text": "Q. R. Merina, “Use of reinforcement learning algorithms to optimize control strategies for single machine systems,” i- manager’s Journal on Instrumentation and Control Engineering, vol. 10, no. 2, p. 36, 2022, doi: 10.26634/JIC.10.2.19357. Macroproceso: Formación Proceso: Gestión Administrativa de apoyo a la Formación Título: Presentación de Proyecto Página 81 de 82",
+  "theme": "Aprendizaje por Refuerzo"
+ },
+ {
+  "id": 72,
+  "text": "F. Martinez-Plumed et al., “CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories,” IEEE Trans. Knowl. Data Eng., vol. 33, no. 8, pp. 3048–3061, Aug. 2021, doi: 10.1109/TKDE.2019.2962680.",
+  "theme": "Aplicaciones / otros"
+ }
+]
